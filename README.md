@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h1 align="center">Space invanders</h3>
+  <h1 align="center">Game of life</h3>
   <img src="https://i.ibb.co/jVPncyb/abeille.png">
   
   <p align="center">
